@@ -5,7 +5,10 @@
 ### Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/vedesh-pandya-5394a2284/" target="_blank">
-    <img src="https://raw.githubusercontent.com/VedeshP/VedeshP/main/logos/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://github.com/VedeshP/VedeshP/blob/0e53b59d3764050f282f233972b84f30f114605a/logos/linkdn_logo.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/vedesh_p" target="_blank">
+    <img src="https://github.com/VedeshP/VedeshP/blob/61e10d9496d9f6026629aa680562449762be63fb/logos/twitter%20(1).png" alt="Twitter" width="40" height="40" style="border-radius: 8px;"/>
   </a>
 </p>
 
