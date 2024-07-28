@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Vedesh
 
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FVedeshP%2FVedeshP.json&label=Profile%20Views&labelColor=%238cd53d&color=%231DA1F2)
+
 <!--
 **VedeshP/VedeshP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
