@@ -12,6 +12,14 @@
   </a>
 </p>
 
+![VedeshP's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedeshP&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedeshP&theme=gruvbox)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VedeshP&theme=gruvbox)](https://git.io/streak-stats)
+
+
+
 
 <!--
 **VedeshP/VedeshP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
