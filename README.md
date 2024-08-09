@@ -1,8 +1,16 @@
-## Hi there 👋, I'm Vedesh
+# Hi there 👋, I'm Vedesh
 
 ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FVedeshP%2FVedeshP.json&label=Profile%20Views&labelColor=%238cd53d&color=%231DA1F2)
 
-### Connect With Me:
+---
+
+I'm Vedesh, a sophomore computer science student with a keen interest in AI, ML, and web development. I'm passionate about creating innovative solutions and continuously learning new technologies.
+
+Welcome to my GitHub profile!
+
+---
+
+## 📫 Get in Touch
 <p align="left">
   <a href="https://www.linkedin.com/in/vedesh-pandya-5394a2284/" target="_blank">
     <img src="https://github.com/VedeshP/VedeshP/blob/0e53b59d3764050f282f233972b84f30f114605a/logos/linkdn_logo.png" alt="LinkedIn" width="40" height="40"/>
@@ -14,6 +22,8 @@
     <img src="https://github.com/VedeshP/VedeshP/blob/89123f72ae22a105937c6e2b3160dad6865a8db3/logos/improov.png" alt="Twitter" width="40" height="40" style="border-radius: 8px;"/>
   </a>
 </p>
+
+## 📈 Github Stats
 
 ![VedeshP's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedeshP&show_icons=true&theme=gruvbox)
 
