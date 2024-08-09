@@ -23,6 +23,8 @@ Welcome to my GitHub profile!
   </a>
 </p>
 
+[Email](mailto:vedeshskp@gmail.com)
+
 ## 📈 Github Stats
 
 ![VedeshP's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedeshP&show_icons=true&theme=gruvbox)
@@ -30,6 +32,15 @@ Welcome to my GitHub profile!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedeshP&theme=gruvbox)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VedeshP&theme=gruvbox)](https://git.io/streak-stats)
+
+
+## 🚀 Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedeshP&repo=improov)](https://github.com/VedeshP/improov)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedeshP&repo=xptracker)](https://github.com/VedeshP/xptracker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedeshP&repo=NGO)](https://github.com/VedeshP/NGO)
+
 
 
 
