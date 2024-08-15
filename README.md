@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
   </a>
 </p>
 
-[Email](mailto:vedeshskp@gmail.com)
+Email: [vedeshskp@gmail.com](mailto:vedeshskp@gmail.com)
 
 ## 📈 Github Stats
 
