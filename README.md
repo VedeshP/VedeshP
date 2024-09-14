@@ -29,7 +29,7 @@ Email: [vedeshskp@gmail.com](mailto:vedeshskp@gmail.com)
 
 ![VedeshP's GitHub stats](https://github-readme-stats.vercel.app/api?username=VedeshP&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedeshP&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedeshP&theme=gruvbox&hide=html)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VedeshP&theme=gruvbox)](https://git.io/streak-stats)
 
