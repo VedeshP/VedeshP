@@ -33,6 +33,8 @@ Email: [vedeshskp@gmail.com](mailto:vedeshskp@gmail.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VedeshP&theme=gruvbox)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🚀 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VedeshP&repo=improov)](https://github.com/VedeshP/improov)
